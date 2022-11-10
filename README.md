@@ -6,7 +6,7 @@ Create a notebook, filled with parameters defined by a simulation in SampleDB, i
 ## Usage
 1. Log in at https://jupyter-jsc.fz-juelich.de
 2. Start a JupyterLab on any system
-3. Choose a simulation in SampleDB and click on the "Create Notebook" button.
+3. Choose a simulation in SampleDB and click "Create Notebook" button.
 4. You will be redirected to Jupyter-JSC. Choose a running JupyterLab.
 5. You will be redirected to the newly created Notebook.
   
